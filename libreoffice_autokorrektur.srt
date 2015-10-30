@@ -1,0 +1,115 @@
+1
+00:00:05,000 --> 00:00:14,900
+Hallo - LibreOffice - Einfuehrung in Writer - Funktion AutoKorrektur verwenden
+
+2
+00:00:15,000 --> 00:00:22,900
+Die Funktion AutoKorrektur ermoeglicht die automatische Korrektur von haeufig vorkommenden Rechtschreib- und Tippfehlern
+
+3
+00:00:23,000 --> 00:00:30,900
+z.B. wird „Hadnbuch“ automatisch in „Handbuch“ geaendert
+
+4
+00:00:31,000 --> 00:00:36,900
+sofern diese Aenderung in den Einstellungen der Funktion AutoKorrektur hinterlegt worden ist
+
+5
+00:00:37,000 --> 00:00:43,900
+Um die im folgenden beschriebenen AutoKorrektur-Einstellungen vornehmen zu koennen
+
+6
+00:00:44,000 --> 00:00:52,900
+rufen Sie den Dialog AutoKorrektur ueber das Menue Extras - AutoKorrektur-Optionen... auf
+
+7
+00:00:53,000 --> 00:00:55,900
+und wechseln in das Register Ersetzung
+
+8
+00:00:56,000 --> 00:00:59,900
+Hier sehen Sie eine Liste mit voreingestellten Ersetzungen
+
+9
+00:01:00,000 --> 00:01:04,900
+Sie koennen neue Eintraege erstellen oder unerwuenschte Eintraege loeschen
+
+10
+00:01:05,000 --> 00:01:07,900
+momentan sind keine da
+
+11
+00:01:08,000 --> 00:01:14,900
+Gehen Sie dazu wie folgt vor: Geben Sie im Feld Kuerzel die Textzeichenfolge ein
+
+12
+00:01:15,000 --> 00:01:22,900
+die ersetzt werden soll, z.B. Hadnbuch, und im Feld Ersetzen durch
+
+13
+00:01:23,000 --> 00:01:30,900
+die Textzeichenfolge, durch die ersetzt werden soll, z.B. Handbuch
+
+14
+00:01:31,000 --> 00:01:36,900
+Abschliessend klicken Sie auf die Schaltflaeche Neu
+
+15
+00:01:37,000 --> 00:01:42,900
+Der Eintrag erscheint nun in der unten stehenden Liste mit Ersetzungen
+
+16
+00:01:43,000 --> 00:01:49,900
+Um eine bestimmte Textzeichenfolge zu loeschen, waehlen Sie diese Textzeichenfolge aus
+
+17
+00:01:50,000 --> 00:01:53,900
+und klicken Sie anschliessend auf Loeschen
+
+18
+00:01:54,000 --> 00:01:57,900
+Dieser Eintrag steht somit fortan nicht mehr zur Verfuegung
+
+19
+00:01:58,000 --> 00:02:05,900
+OK - naechster Versuch - Hadnbuch, und es funktioniert
+
+20
+00:02:06,000 --> 00:02:13,900
+Die Funktion AutoKorrektur wird automatisch eingeschaltet, wenn Sie LibreOffice installieren
+
+21
+00:02:14,000 --> 00:02:27,900
+Wenn Sie die Funktion AutoKorrektur abschalten moechten, rufen Sie den Menuepunkt Format - AutoKorrektur auf
+
+22
+00:02:28,000 --> 00:02:34,900
+und entfernen Sie den Haken bei Waehrend der Eingabe
+
+23
+00:02:39,000 --> 00:02:44,900
+Tipp - Die Funktion AutoKorrektur kann auch dazu benutzt werden
+
+24
+00:02:45,000 --> 00:02:56,900
+um spezielle Textzeichen einzufuegen, z.B. kann (c) durch © ersetzt werden
+
+25
+00:02:57,000 --> 00:03:05,900
+Eine Erklaerung aller Optionen im Dialog AutoKorrektur finden Sie in der LibreOffice Hilfe
+
+26
+00:03:06,000 --> 00:03:31,900
+unter Hilfe - LibreOffice Hilfe oder direkt durch Druecken der Taste F1 im Dialog AutoKorrektur
+
+27
+00:03:38,000 --> 00:03:39,900
+Tschau und Viel Glueck
+
+28
+00:03:40,000 --> 00:03:40,001
+Textquelle: http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+
+29
+00:03:40,002 --> 00:03:40,003
+Lizenz: http://creativecommons.org/licenses/by/3.0/
