@@ -1,0 +1,75 @@
+1
+00:00:05,000 --> 00:00:10,900
+Hallo - LibreOffice - Einfuehrung in Writer - Dokumentansicht
+
+2
+00:00:11,000 --> 00:00:13,900
+Writer hat mehrere Moeglichkeiten ein Dokument anzuzeigen
+
+3
+00:00:14,000 --> 00:00:17,900
+Drucklayout, Web-Layout, Vollbild
+
+4
+00:00:18,000 --> 00:00:21,900
+Um zwischen den Ansichten Drucklayout und Weblayout zu wechseln
+
+5
+00:00:22,000 --> 00:00:30,900
+waehlen Sie im Menue Ansicht das gewuenschte Layout aus
+
+6
+00:00:32,000 --> 00:00:36,900
+Zudem koennen Sie in den Vollbildmodus wechseln
+
+7
+00:00:37,000 --> 00:00:41,900
+Menuepunkt Ganzer Bildschirm
+
+8
+00:00:42,000 --> 00:00:47,900
+Um diesen wieder zu verlassen, klicken Sie auf die Schaltflaeche Ganzer Bildschirm
+
+9
+00:00:48,000 --> 00:00:54,900
+oder druecken Sie die Tastenkombination Strg+Umschalt+J
+
+10
+00:00:55,000 --> 00:01:02,900
+Im Drucklayout koennen Sie sowohl die Ansicht- als auch die Zoom-/Vergroesserung-Symbole
+
+11
+00:01:03,000 --> 00:01:09,900
+in der Statussymbolleiste verwenden
+
+12
+00:01:10,000 --> 00:01:15,900
+Im Weblayout stehen nur die Zoom-/Vergroesserung-Symbole zur Verfuegung
+
+13
+00:01:16,000 --> 00:01:22,900
+Sie koennen auch Ansicht - Massstab aus dem Menue auswaehlen
+
+14
+00:01:23,000 --> 00:01:26,900
+um den Dialog Massstab & Ansichtslayout anzuzeigen
+
+15
+00:01:27,000 --> 00:01:34,900
+wo Sie die gleichen Einstellungsmoeglichkeiten wie in der Statusleiste finden koennen
+
+16
+00:01:35,000 --> 00:01:43,900
+Im Weblayout stehen die meisten Auswahlmoeglichkeiten nicht zur Verfuegung
+
+17
+00:01:49,000 --> 00:01:51,900
+Tschau und viel Glueck
+
+18
+00:01:52,000 --> 00:01:52,001
+Textquelle: http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+
+19
+00:01:52,002 --> 00:01:52,003
+Lizenz: http://creativecommons.org/licenses/by/3.0/
