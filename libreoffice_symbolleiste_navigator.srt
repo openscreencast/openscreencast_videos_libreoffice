@@ -1,0 +1,88 @@
+1
+00:00:05,000 --> 00:00:10,900
+LibreOffice - Einfuehrung in Writer - Sich schnell durch ein Dokument bewegen
+
+2
+00:00:11,000 --> 00:00:14,900
+Neben den Navigationsfunktionen der Statusleiste
+
+3
+00:00:15,000 --> 00:00:19,900
+koennen Sie auch das Navigator-Fenster und die Symbolleiste Navigator nutzen
+
+4
+00:00:20,000 --> 00:00:24,900
+Das Navigatorfenster rufen Sie wie folgt auf
+
+5
+00:00:25,000 --> 00:00:32,900
+Sie klicken auf dieses Symbol oder druecken die Taste F5
+
+6
+00:00:33,000 --> 00:00:38,900
+oder machen einen Doppelklick in diesen Bereich
+
+7
+00:00:41,000 --> 00:00:46,900
+In Writer koennen Sie die Symbolleiste Navigation auch anzeigen lassen
+
+8
+00:00:47,000 --> 00:00:49,900
+indem Sie auf das kleine Icon klicken
+
+9
+00:00:50,000 --> 00:01:00,900
+das sich in der unteren rechten Ecke des Fensters unterhalb der vertikalen Bildlaufleiste befindet
+
+10
+00:01:01,000 --> 00:01:07,900
+Die Symbolleiste Navigation zeigt Symbole fuer alle Objekttypen im Navigator an
+
+11
+00:01:08,000 --> 00:01:10,900
+zum Beispiel die Ergebnisse eines Suchbefehls
+
+12
+00:01:11,000 --> 00:01:22,900
+Klicken Sie auf ein Symbol, um das Objekt auszuwaehlen z.B. auf Grafik
+
+13
+00:01:26,000 --> 00:01:30,900
+Mit allen Vorheriges Element- und Naechstes Element-Symbolen
+
+14
+00:01:31,000 --> 00:01:37,900
+im Navigator selbst, in der Symbolleiste Navigation und auf der Bildlaufleiste
+
+15
+00:01:38,000 --> 00:01:42,900
+koennen Sie nun zum vorherigen oder naechsten Objekt des ausgewaehlten Typs springen
+
+16
+00:01:43,000 --> 00:01:48,900
+Dies ist besonders nuetzlich, um zu Elementen wie Index-Eintraege springen zu koennen
+
+17
+00:01:49,000 --> 00:01:51,900
+die sonst nur schwer im Text zu finden sind
+
+18
+00:01:52,000 --> 00:01:56,900
+Die in den Tooltipps angezeigten Beschreibungen
+
+19
+00:01:57,000 --> 00:02:07,900
+der Symbole wechseln im Bezug zur verwendeten Kategorie (z.B. Naechste Grafik oder
+Weitersuchen)
+
+20
+00:02:18,000 --> 00:02:20,900
+Tschau und viel Glueck
+
+21
+00:02:21,000 --> 00:02:21,001
+Autor, Textquelle siehe: http://de.libreoffice.org/hilfe-kontakt/handbuecher/ - Kapitel 04 - Einfuehrung in Writer
+
+22
+00:02:21,002 --> 00:02:21,003
+Diese Untertitel-Dokument - Lizenz: http://creativecommons.org/licenses/by/3.0/

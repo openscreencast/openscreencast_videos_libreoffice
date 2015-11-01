@@ -1,0 +1,115 @@
+1
+00:00:05,000 --> 00:00:11,900
+LibreOffice - Einfuehrung in Writer - Suchen und Ersetzen von Text und Formatierungen
+
+2
+00:00:12,000 --> 00:00:15,900
+Writer besitzt zwei Wege, Text innerhalb eines Dokumentes zu finden
+
+3
+00:00:16,000 --> 00:00:21,900
+die Suchen-Leiste zur schnellen Suche und den Dialog Suchen & Ersetzen
+
+4
+00:00:22,000 --> 00:00:23,900
+In diesem Dialog koennen Sie 
+
+5
+00:00:24,000 --> 00:00:26,900
+Woerter oder Textstellen suchen und ersetzen
+
+6
+00:00:27,000 --> 00:00:30,900
+Platzhalter und regulaere Ausdruecke fuer die Feinabstimmung einer Suche verwenden
+
+7
+00:00:31,000 --> 00:00:33,900
+Bestimmte Formatierungen suchen und ersetzen
+
+8
+00:00:34,000 --> 00:00:36,900
+Absatzvorlagen suchen und ersetzen
+
+9
+00:00:37,000 --> 00:00:39,900
+Wenn die Suchleiste nicht sichtbar ist
+
+10
+00:00:40,000 --> 00:00:52,900
+koennen Sie diese ueber Ansicht - Symbolleisten - Suchen einblenden
+
+11
+00:01:01,000 --> 00:01:08,900
+Um den Dialog Suchen & Ersetzen anzuzeigen, benutzen Sie die Tastenkombination Strg+F
+
+12
+00:01:10,000 --> 00:01:16,900
+oder waehlen Bearbeiten - Suchen & Ersetzen aus der Menueleiste
+
+13
+00:01:18,000 --> 00:01:23,900
+Geben Sie den Text, nach dem Sie suchen wollen, in das Suchen-Feld ein
+
+14
+00:01:26,000 --> 00:01:29,900
+Um den Text mit einem anderen zu ersetzen
+
+15
+00:01:30,000 --> 00:01:33,900
+geben Sie in das Ersetzen-Feld den neuen Text ein
+
+16
+00:01:35,000 --> 00:01:38,900
+Sie koennen zahlreiche Optionen verwenden
+
+17
+00:01:39,000 --> 00:01:43,900
+etwa nur nach ganzen oder auch nach aehnlichen Woertern suchen
+
+18
+00:01:44,000 --> 00:01:49,900
+Wenn Sie die Suche festgelegt haben, klicken Sie auf Suchen
+
+19
+00:01:50,000 --> 00:01:58,900
+Um Text zu ersetzen, klicken Sie stattdessen auf Ersetzen
+
+20
+00:02:06,000 --> 00:02:08,900
+Wenn Sie Suche alle anklicken
+
+21
+00:02:09,000 --> 00:02:14,900
+waehlt LibreOffice alle Duplikate des Suchwortes im Dokument aus
+
+22
+00:02:15,000 --> 00:02:20,900
+Ebenso, wenn Sie Ersetze alle verwenden, ersetzt LibreOffice alle Treffer
+
+23
+00:02:21,000 --> 00:02:24,900
+Benutzen Sie Ersetze alle mit Vorsicht
+
+24
+00:02:25,000 --> 00:02:26,900
+sonst haben Sie am Ende lustige Fehler
+
+25
+00:02:27,000 --> 00:02:31,900
+Eine fehlerhafte Anwendung von Ersetze alle erfordert
+
+26
+00:02:32,000 --> 00:02:37,900
+unter Umstaenden eine manuelle "Wort fuer Wort"-Suche, um das zu beheben
+
+27
+00:02:39,000 --> 00:02:41,900
+Tschau und viel Glueck
+
+28
+00:02:42,000 --> 00:02:42,001
+Autor, Textquelle siehe: http://de.libreoffice.org/hilfe-kontakt/handbuecher/ - Kapitel 04 - Einfuehrung in Writer
+
+29
+00:02:42,002 --> 00:02:42,003
+Dieses Untertitel-Dokument hat folgende Lizenz: http://creativecommons.org/licenses/by/3.0/
