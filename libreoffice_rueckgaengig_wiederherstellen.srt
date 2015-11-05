@@ -1,0 +1,87 @@
+1
+00:00:05,000 --> 00:00:10,900
+Hallo - LibreOffice - VerAenderungen rueckgaengig machen und Wiederherstellen von VerAenderungen
+
+2
+00:00:11,000 --> 00:00:16,900
+Mit der Tastenkombination Strg+Z koennen Sie Aenderungen rueckgaengig machen
+
+3
+00:00:17,000 --> 00:00:21,900
+Alternativ klicken Sie auf die Schaltflaeche Rueckgaengig in der Symbolleiste
+
+4
+00:00:22,000 --> 00:00:28,900
+oder waehlen aus dem Menue Bearbeiten - Rueckgaengig aus
+
+5
+00:00:29,000 --> 00:00:33,900
+Das Bearbeiten-Menue zeigt die letzte Aenderung, die rueckgaengig gemacht werden kann
+
+6
+00:00:34,000 --> 00:00:41,900
+Klicken Sie auf das kleine Dreieck rechts neben dem Symbol fuer Rueckgaengig
+
+7
+00:00:42,000 --> 00:00:45,900
+um eine Liste aller Aenderungen, die rueckgaengig gemacht werden koennen, zu erhalten
+
+8
+00:00:46,000 --> 00:00:50,900
+Sie koennen mehrere Aenderungen gleichzeitig rueckgaengig machen
+
+9
+00:00:51,000 --> 00:00:59,900
+Nachdem Aenderungen rueckgaengig gemacht worden sind, wird die Schaltflaeche Wiederherstellen aktiv
+
+10
+00:01:00,000 --> 00:01:03,900
+Um eine zurueckgenommene Aenderung wiederherzustellen
+
+11
+00:01:04,000 --> 00:01:13,900
+waehlen Sie Bearbeiten - Wiederherstellen, druecken Sie Strg+Y
+
+12
+00:01:14,000 --> 00:01:20,900
+oder klicken Sie auf das Wiederherstellen-Symbol
+
+13
+00:01:21,000 --> 00:01:25,900
+Wie bei Rueckgaengig erhalten Sie mit Klick auf das Dreieck rechts neben dem Pfeil
+
+14
+00:01:26,000 --> 00:01:36,900
+eine Liste der Aenderungen, die wiederhergestellt werden koennen
+
+15
+00:01:37,000 --> 00:01:42,900
+Sie koennnen die Anzahl der Aenderungen, die LibreOffice im Speicher behaelt, einstellen
+
+16
+00:01:43,000 --> 00:01:52,900
+Waehlen Sie hierzu Extras - Optionen - LibreOffice - Arbeitsspeicher
+
+17
+00:01:53,000 --> 00:01:58,900
+und im Rueckgaengig-Abschnitt Anzahl der Schritte
+
+18
+00:01:59,000 --> 00:02:03,900
+Beachten Sie, dass, je hoeher die Anzahl der wiederherstellbaren Aenderungen ist
+
+19
+00:02:04,000 --> 00:02:07,900
+LibreOffice um so mehr Arbeitsspeicher verbraucht
+
+20
+00:02:10,000 --> 00:02:13,900
+Tschau und viel Glueck
+
+21
+00:02:14,000 --> 00:02:14,001
+Textquelle: http://de.libreoffice.org/hilfe-kontakt/handbuecher/ - Kapitel 1 - Einfuehrung in LibreOffice 
+
+22
+00:02:14,002 --> 00:02:14,003
+Textquelle und dieses Untertitel-Dokument stehen unter Lizenz: http://creativecommons.org/licenses/by/3.0/
