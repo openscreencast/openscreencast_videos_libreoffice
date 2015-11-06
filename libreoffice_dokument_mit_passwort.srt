@@ -1,0 +1,123 @@
+1
+00:00:05,000 --> 00:00:08,900
+LibreOffice - Dokument mit einem Passwort schuetzen
+
+2
+00:00:09,000 --> 00:00:13,900
+Es ist moeglich einzustellen, dass ein Dokument nur mit einem Passwort geoeffnet werden kann
+
+3
+00:00:14,000 --> 00:00:18,900
+Dazu rufen Sie den Dialog Datei - Speichern unter... auf
+
+4
+00:00:19,000 --> 00:00:23,900
+und setzen einen Haken bei Mit Kennwort speichern
+
+5
+00:00:24,000 --> 00:00:30,900
+den Namen des Dokumentes eingeben - als Beispiel dok
+
+6
+00:00:31,000 --> 00:00:32,900
+in Ordner speichern - hier Dokumente
+
+7
+00:00:33,000 --> 00:00:36,900
+Anschliessend klicken Sie auf die Schaltflaeche Speichern
+
+8
+00:00:37,000 --> 00:00:40,900
+Es erscheint nun eine Eingabemaske, in der Sie das Passwort
+
+9
+00:00:41,000 --> 00:00:45,900
+in zwei Eingabefelder eintragen und den Dialog mit OK bestaetigen muessen
+
+10
+00:00:46,000 --> 00:00:49,900
+Falls sich die Eingaben unterscheiden, erhalten Sie einen Hinweis
+
+11
+00:00:50,000 --> 00:00:59,900
+dass sich die Eingaben unterscheiden und der Passwort-Dialog wird erneut aufgerufen
+
+12
+00:01:00,000 --> 00:01:03,900
+Wenn die Eingaben in den zwei Eingabefeldern identisch sind
+
+13
+00:01:04,000 --> 00:01:12,900
+ist das Dokument nun passwortgeschuetzt abgespeichert - Benutzen Sie ein sicheres Passwort
+
+14
+00:01:13,000 --> 00:01:29,900
+OK - Dokument schliessen und erneut im Ordner Dokument aufrufen - Passwort eingeben - OK
+
+15
+00:01:30,000 --> 00:01:35,900
+Vorsicht - LibreOffice wendet eine Verschluesselungsmethode an, die es fast unmoeglich macht
+
+16
+00:01:36,000 --> 00:01:40,900
+den Inhalt des Dokumentes zu rekonstruieren, wenn Sie das Passwort verloren haben
+
+17
+00:01:41,000 --> 00:01:46,900
+Writer und Calc bieten eine weitere Moeglichkeit zum Schutz des Dokumentes
+
+18
+00:01:47,000 --> 00:01:52,900
+Diese zweite Einstellung ermoeglicht es, das Dokument zu oeffnen und anzusehen
+
+19
+00:01:53,000 --> 00:01:57,900
+allerdings sind Veraenderungen nur mit Eingabe des Passwortes moeglich
+
+20
+00:01:58,000 --> 00:02:02,900
+Um diesen Schreibschutz zu aktivieren gehen Sie wie folgt vor
+
+21
+00:02:03,000 --> 00:02:12,900
+Datei - Speichern unter - mit Kennwort speichern - Speichern - Ja
+
+22
+00:02:13,000 --> 00:02:19,900
+Waehlen Sie „Mehr Optionen“ im Passwort-Dialog
+
+23
+00:02:20,000 --> 00:02:25,900
+Waehlen Sie Datei schreibgeschuetzt oeffnen aus und tragen Sie
+
+24
+00:02:26,000 --> 00:02:30,900
+in dem Feld Bearbeiten-Kennwort eingeben Ihr gewuenschtes Kennwort ein
+
+25
+00:02:31,000 --> 00:02:37,900
+Wiederholen Sie die Eingabe in der naechsten Zeile und klicken Sie auf OK
+
+26
+00:02:38,000 --> 00:02:52,900
+OK - Datei schliessen und erneut aufrufen und das Dokument ist schreibgeschuetzt
+
+27
+00:02:53,000 --> 00:02:59,900
+Um an dem Dokument weiter zu arbeiten klicken Sie mit der rechten Maustaste
+
+28
+00:03:00,000 --> 00:03:11,900
+auf das Dokument - klicken auf Bearbeiten und geben jetzt das Passwort ein - OK
+
+29
+00:03:14,000 --> 00:03:16,900
+Tschau und viel Glueck
+
+30
+00:03:20,000 --> 00:03:20,001
+Textquelle: http://de.libreoffice.org/hilfe-kontakt/handbuecher/ - Kapitel 1 - Einfuehrung in LibreOffice 
+
+31
+00:03:20,002 --> 00:03:20,003
+Textquelle und dieses Untertitel-Dokument stehen unter Lizenz: http://creativecommons.org/licenses/by/3.0/
