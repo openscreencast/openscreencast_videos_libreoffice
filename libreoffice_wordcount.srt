@@ -1,0 +1,63 @@
+1
+00:00:05,000 --> 00:00:09,900
+Hallo - LibreOffice - Zeichen und Woerter zaehlen
+
+2
+00:00:10,000 --> 00:00:14,900
+Manchmal moechte man wissen wie viele Zeichen bzw. Woerter in einem Text stecken
+
+3
+00:00:15,000 --> 00:00:19,900
+Da kann man eines tun, man kann die Woerter und Zeichen selbst zaehlen
+
+4
+00:00:20,000 --> 00:00:24,900
+was bei 1000 Seiten schon mal mehr als 5 Minuten dauern koennte
+
+5
+00:00:25,000 --> 00:00:34,900
+Oder man nutzt die Funktion Woerter zaehlen im Menue Extras
+
+6
+00:00:35,000 --> 00:00:44,900
+Ausserdem gibt es noch im Menue Datei unter Eigenschaften die Statistik
+
+7
+00:00:45,000 --> 00:00:53,900
+Dort wird die Anzahl der Seiten, Tabellen, Grafiken, Woerter, Zeichen, etc. angezeigt
+
+8
+00:00:54,000 --> 00:00:58,900
+Moechte man die Anzahl der Seiten, Zeichen oder was auch immer
+
+9
+00:00:59,000 --> 00:01:01,900
+in den Text mit einbauen
+
+10
+00:01:02,000 --> 00:01:04,900
+gibt es einen Feldbefehl
+
+11
+00:01:05,000 --> 00:01:13,900
+Das moechte ich hier mal zeigen, ich schreibe hier mal hin Anzahl der Zeichen: 
+
+12
+00:01:14,000 --> 00:01:18,900
+und jetzt moechte ich die Anzahl der Zeichen dort einfuegen
+
+13
+00:01:19,000 --> 00:01:26,900
+Gehe jetzt ins Menue Einfuegen, Feldbefehl, klicke auf Andere
+
+14
+00:01:27,000 --> 00:01:34,900
+klicke auf Dokument, Statistik und auf Zeichen
+
+15
+00:01:35,000 --> 00:01:41,900
+und klicke abschliessend auf den Button Einfuegen
+
+16
+00:01:43,000 --> 00:01:45,900
+Tschau und viel Glueck
