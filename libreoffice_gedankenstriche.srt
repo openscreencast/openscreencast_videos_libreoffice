@@ -1,0 +1,95 @@
+1
+00:00:05,000 --> 00:00:08,900
+Hallo - LibreOffice - Einfuehrung in Writer
+
+2
+00:00:09,000 --> 00:00:14,900
+Einfuegen von Gedankenstrichen sowie geschuetzten Leerzeichen und Bindestrichen
+
+3
+00:00:09,000 --> 00:00:18,900
+Um Gedankenstriche am einfachsten einzugeben
+
+4
+00:00:19,000 --> 00:00:25,900
+aktivieren Sie unter Extras - AutoKorrektur-Optionen... 
+
+5
+00:00:26,000 --> 00:00:32,900
+Optionen - das Kontrollkaestchen bei Gedankenstriche ersetzen
+
+6
+00:00:33,000 --> 00:00:37,900
+OK - die 2 Haekchen sind gesetzt
+
+7
+00:00:38,000 --> 00:00:40,900
+Bei der Eingabe zweier aufeinander folgender Bindestriche
+
+8
+00:00:41,000 --> 00:00:43,900
+mit Leerstelle davor und danach
+
+9
+00:00:44,000 --> 00:00:47,900
+wird dieser so automatisch durch einen Gedankenstrich ersetzt
+
+10
+00:00:48,000 --> 00:00:53,900
+Leerstelle, Bindestrich, Bindestrich, Leerstelle
+
+11
+00:00:56,000 --> 00:01:00,900
+Wenn Sie einen Zeilenumbruch zwischen zwei Woertern verhindern wollen
+
+12
+00:01:01,000 --> 00:01:12,900
+so druecken Sie Strg+Umschalt+Leertaste, um ein geschuetztes Leerzeichen einzufuegen
+
+13
+00:01:14,000 --> 00:01:19,900
+Strg+Umschalt+Leertaste
+
+14
+00:01:20,000 --> 00:01:25,900
+Wenn Sie nicht wuenschen, dass ein Bindestrich am Zeilenende umgebrochen wird
+
+15
+00:01:26,000 --> 00:01:32,900
+z. B. in Telefonnummern, dann fuegen Sie mit Strg+Umschalt+Minus
+
+16
+00:01:33,000 --> 00:01:35,900
+einen geschuetzten Bindestrich ein
+
+17
+00:01:36,000 --> 00:01:42,900
+so z.B. hier - Strg+Shift+-
+
+18
+00:01:43,000 --> 00:01:46,900
+Geschuetzte Leerzeichen und Bindestriche werden
+
+19
+00:01:47,000 --> 00:01:54,900
+wenn die Option Ansicht - Markierungen aktiviert ist
+
+20
+00:01:55,000 --> 00:02:03,900
+grau hinterlegt angezeigt, um sie von normalen Leerzeichen und Bindestrichen zu unterscheiden
+
+21
+00:02:08,000 --> 00:02:13,900
+Im Ausdruck und beim PDF-Export wird die graue Markierung nicht mit dargestellt
+
+22
+00:02:17,000 --> 00:02:18,900
+Tschau und viel Glueck
+
+23
+00:02:19,000 --> 00:02:19,001
+Textquelle: http://de.libreoffice.org/hilfe-kontakt/handbuecher/ - Kapitel 1 - Einfuehrung in LibreOffice 
+
+24
+00:02:19,002 --> 00:02:19,003
+Textquelle und dieses Untertitel-Dokument stehen unter Lizenz: http://creativecommons.org/licenses/by/3.0/
