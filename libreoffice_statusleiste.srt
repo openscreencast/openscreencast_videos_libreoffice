@@ -1,0 +1,135 @@
+1
+00:00:10,000 --> 00:00:14,900
+Hallo - LibreOffice - die Statusleiste
+
+2
+00:00:15,000 --> 00:00:20,900
+Die Statusleiste, die unterste Zeile im Fenster, enthaelt
+
+3
+00:00:21,000 --> 00:00:23,900
+nicht nur bestimmte Informationen sondern auch Funktionen
+
+4
+00:00:24,000 --> 00:00:34,900
+Per Ansicht - Statusleiste kann die Statusleiste aus- und eingeblendet werden
+
+5
+00:00:35,000 --> 00:00:40,900
+In der jetzigen Version gibt es 11 Felder in der Statusleiste
+
+6
+00:00:41,000 --> 00:00:45,900
+Im ersten Feld, links unten, wird die Anzahl der Seiten
+
+7
+00:00:46,000 --> 00:00:50,900
+und entsprechend der aktuellen Position die Seitennummer angezeigt
+
+8
+00:00:51,000 --> 00:00:55,900
+Ein Doppelklick laesst den Navigator erscheinen
+
+9
+00:00:56,000 --> 00:01:05,900
+Per Klick mit der rechten Maustaste ist ein Sprung zu einer gesetzten Textmarke moeglich
+
+10
+00:01:06,000 --> 00:01:12,900
+Das zweite Feld zeigt die Seitenvorlage an
+
+11
+00:01:13,000 --> 00:01:21,900
+Ein Doppelklick oeffnet das Fenster Format - Seite
+
+12
+00:01:22,000 --> 00:01:31,900
+Mittels Kontextmenue ist das Einstellen vordefinierter Seitenvorlagen durchfuehrbar
+
+13
+00:01:32,000 --> 00:01:36,900
+Im dritten Feld wird die Spracheinstellung angezeigt
+
+14
+00:01:37,000 --> 00:01:42,900
+Ein Klick ermoeglicht die Sprachauswahl fuer einen markierten Text
+
+15
+00:01:43,000 --> 00:01:50,900
+Die Schrift kann man einstellen per Klick auf Mehr
+
+16
+00:01:51,000 --> 00:01:55,900
+Feld Nr 4 zeigt den Text-Einfuegemodus an
+
+17
+00:01:56,000 --> 00:02:07,900
+Mittels Mausklick ist der Wechsel zwischen Einfuegen und ueberschreiben anwendbar
+
+18
+00:02:08,000 --> 00:02:12,900
+Feld Nr 5 informiert ueber den momentanen Selektionsmodus
+
+19
+00:02:13,000 --> 00:02:15,900
+Per Mausklick ist der Wechsel zwischen den Werten 
+
+20
+00:02:16,000 --> 00:02:23,900
+Standard, Erweitern, Ergaenzen und Blockauswahl moeglich
+
+21
+00:02:24,000 --> 00:02:30,900
+Das Ausrufezeichen im 6. Feld verraet einen das der Inhalt
+
+22
+00:02:31,000 --> 00:02:34,900
+seit dem letzten Speichern geaendert wurde
+
+23
+00:02:35,000 --> 00:02:38,900
+Ein Doppelklick fuehrt zum Speichern
+
+24
+00:02:39,000 --> 00:02:47,900
+Das 7. Feld zeigt an ob eine digitale Signatur vorhanden ist
+
+25
+00:02:48,000 --> 00:03:01,900
+Ein Doppelklick oeffnet das Fenster Digitale Signaturen auch erreichbar im Menue Datei
+
+26
+00:03:02,000 --> 00:03:09,900
+Sobald eine Tabelle existiert und die aktuelle Cursorposition in der Tabelle ist
+
+27
+00:03:10,000 --> 00:03:15,900
+wird im Feld Nr 8 die Tabelle und die Zelle angezeigt
+
+28
+00:03:16,000 --> 00:03:29,900
+Der Doppelklick fuehrt zum Fenster Tabelle - Tabelleneigenschaften
+
+29
+00:03:30,000 --> 00:03:35,900
+Bei Aufzaehlungen und Nummerierungen wird die Ebene angezeigt
+
+30
+00:03:36,000 --> 00:03:52,900
+Ein Doppelklick fuehrt zum Fenster Nummerierung- und Aufzaehlungszeichen
+
+31
+00:03:53,000 --> 00:04:02,900
+Die Felder 9 10 und 11 entsprechen den Informationen und Einstellungsmoeglichkeiten
+
+32
+00:04:03,000 --> 00:04:11,900
+die im Fenster Ansicht - Massstab vorhanden sind
+
+33
+00:04:12,000 --> 00:04:30,900
+Ansichtslayout, Zoomen, den Zoomfaktor festlegen
+
+34
+00:04:31,000 --> 00:04:32,900
+Tschau und Viel Glueck

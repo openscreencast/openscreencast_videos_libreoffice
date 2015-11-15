@@ -1,0 +1,119 @@
+1
+00:00:09,000 --> 00:00:11,900
+Herzlich Willkommen
+
+2
+00:00:12,000 --> 00:00:14,900
+In diesem Screencast soll die Funktion Kommentar
+
+3
+00:00:15,000 --> 00:00:17,900
+die Basis fuer den kommenden Inhalt sein
+
+4
+00:00:18,000 --> 00:00:22,900
+Die Funktion Kommentar, zu finden im Menue Einfuegen
+
+5
+00:00:23,000 --> 00:00:28,900
+erweist sich als nuetzliches Utensil wenn Anmerkungen, Notizen, Randbemerkungen
+
+6
+00:00:29,000 --> 00:00:31,900
+und dergleichen im Textdokument erwuenscht sind
+
+7
+00:00:32,000 --> 00:00:35,900
+Um einen Kommentar an der Cursorposition im Text einzufuegen
+
+8
+00:00:36,000 --> 00:00:41,900
+klickt man auf den Eintrag Kommentar im Menue Einfuegen
+
+9
+00:00:42,000 --> 00:00:45,900
+oder nutzt die Tastenkombination Strg+Alt+n
+
+10
+00:00:46,000 --> 00:00:49,900
+Rechts neben dem Blatt erscheint eine farbliche Box 
+
+11
+00:00:50,000 --> 00:00:53,900
+wo die Kommentareingabe sofort umsetzbar ist
+
+12
+00:00:59,000 --> 00:01:05,900
+Fetter, kursiver, unterstrichener und durchgestrichener Text ist moeglich
+
+13
+00:01:10,000 --> 00:01:16,900
+Die Rechtschreibpruefung kann ebenso innerhalb des Kommentars durchgefuehrt werden
+
+14
+00:01:20,000 --> 00:01:23,900
+Kommentare von unterschiedlichen Benutzern
+
+15
+00:01:24,000 --> 00:01:27,900
+werden durch verschiedene Hintergrundfarben gekennzeichnet
+
+16
+00:01:28,000 --> 00:01:35,900
+Unter dem Kommentar werden Uhrzeit, Datum und Verfasser automatisch hinzugefuegt
+
+17
+00:01:36,000 --> 00:01:43,900
+Der Kommentatorname wird den Benutzerdaten entnommen
+
+18
+00:01:49,000 --> 00:01:55,900
+Hinter der Schaltflaeche, rechts unten, mit dem kleinen Pfeil nach unten drauf
+
+19
+00:01:56,000 --> 00:01:58,900
+verbirgt sich ein Menue mit den Funktionen
+
+20
+00:01:59,000 --> 00:02:03,900
+Kommentar loeschen, alle Kommentare des Benutzers loeschen, alle Kommentare loeschen
+
+21
+00:02:04,000 --> 00:02:09,900
+Im Kontextmenue des Kommentars findet man die selben Punkte
+
+22
+00:02:12,000 --> 00:02:21,900
+Im Navigator sind alle Kommentare logischerweise unter Kommentare aufgelistet
+
+23
+00:02:22,000 --> 00:02:27,900
+Ein schnelles Springen von Kommentar zu Kommentar ist somit machbar
+
+24
+00:02:30,000 --> 00:02:41,900
+Per Ansicht - Kommentare ist das Aus- und Einblenden aller Kommentare am Rand realisierbar
+
+25
+00:02:42,000 --> 00:02:46,900
+Kommentare werden standardmaessig beim Drucken nicht beruecksichtigt
+
+26
+00:02:47,000 --> 00:02:50,900
+Wer Kommentare auf dem Papier haben moechte findet unter
+
+27
+00:02:51,000 --> 00:03:05,900
+Extras - Optionen - Writer - Drucken - Kommentare weiterhelfende Einstellungsmoeglichkeiten
+
+28
+00:03:06,000 --> 00:03:13,900
+Beim Exportieren als Pdf werden Kommentare nicht uebernommen
+
+29
+00:03:14,000 --> 00:03:23,900
+es sei denn man setzt im Bereich Allgemein ein Haekchen bei Kommentare exportieren
+
+30
+00:03:24,000 --> 00:03:26,900
+Tschau und viel Glueck
